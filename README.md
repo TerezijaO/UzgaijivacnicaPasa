@@ -1,11 +1,11 @@
-<Terezija Obradović>
+Terezija Obradović
 
 
 
 Ekonomski fakultet u Osijeku
 
 Kolegij: Razvoj poslovnih aplikacija
-<01.06.2023. >
+01.06.2023. 
  
 Sadržaj
 1.	Uvod	1
